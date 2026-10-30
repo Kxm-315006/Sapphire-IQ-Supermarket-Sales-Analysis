@@ -1,6 +1,7 @@
 # Analysis Summary
 
 ## Dataset overview
+
 The supplied workbook contains **8,523 product records** and 12 original fields. The analysis uses the supplied `Sales` field and does not assume a currency because none is specified in the source files.
 
 ## Overall sales performance
@@ -22,12 +23,20 @@ The top four product categories by sales are:
 
 | Category | Total sales |
 |---|---:|
-| Fruits and Vegetables | 178,124.08 |\n| Snack Foods | 175,433.92 |\n| Household | 135,976.53 |\n| Frozen Foods | 118,558.88 |\n
+| Fruits and Vegetables | 178,124.08 |
+| Snack Foods | 175,433.92 |
+| Household | 135,976.53 |
+| Frozen Foods | 118,558.88 |
+
 Together, the four largest categories contribute **50.60%** of total sales. The highest-sales category is **Fruits and Vegetables**; the lowest-sales category is **Seafood**.
 
 | Outlet type | Total sales |
 |---|---:|
-| Supermarket Type1 | 787,549.89 |\n| Grocery Store | 151,939.15 |\n| Supermarket Type2 | 131,477.78 |\n| Supermarket Type3 | 130,714.67 |\n
+| Supermarket Type1 | 787,549.89 |
+| Grocery Store | 151,939.15 |
+| Supermarket Type2 | 131,477.78 |
+| Supermarket Type3 | 130,714.67 |
+
 The highest-sales outlet type is **Supermarket Type1**.
 
 ## Visibility and statistical patterns
